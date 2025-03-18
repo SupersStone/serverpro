@@ -21,7 +21,7 @@
 package sdkws
 
 import (
-	wrapperspb "github.com/SupersStone/serverpro/wrapperspb"
+	wrapperspb "github.com/wanjinliang/new-xxxxx/wrapperspb"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"

@@ -16,7 +16,7 @@ package third
 
 import (
 	"errors"
-	"github.com/SupersStone/serverpro/constant"
+	"github.com/wanjinliang/new-xxxxx/constant"
 )
 
 func (x *FcmUpdateTokenReq) Check() error {

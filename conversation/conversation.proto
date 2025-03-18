@@ -18,7 +18,7 @@ package openim.conversation;
 import "sdkws/sdkws.proto";
 import "wrapperspb/wrapperspb.proto";
 
-option go_package = "github.com/SupersStone/serverpro/conversation";
+option go_package = "github.com/wanjinliang/new-xxxxx/conversation";
 
 message Conversation {
   string ownerUserID = 1;

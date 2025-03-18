@@ -22,7 +22,7 @@ package msg
 
 import (
 	context "context"
-	sdkws "github.com/SupersStone/serverpro/sdkws"
+	sdkws "github.com/wanjinliang/new-xxxxx/sdkws"
 	grpc "google.golang.org/grpc"
 	codes "google.golang.org/grpc/codes"
 	status "google.golang.org/grpc/status"

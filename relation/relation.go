@@ -17,7 +17,7 @@ package relation
 import (
 	"errors"
 	"fmt"
-	"github.com/SupersStone/serverpro/constant"
+	"github.com/wanjinliang/new-xxxxx/constant"
 )
 
 func (x *GetPaginationFriendsReq) Check() error {

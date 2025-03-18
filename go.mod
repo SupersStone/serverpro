@@ -1,4 +1,4 @@
-module github.com/SupersStone/serverpro
+module github.com/wanjinliang/new-xxxxx
 
 go 1.22.7
 

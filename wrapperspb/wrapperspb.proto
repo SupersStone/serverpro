@@ -16,7 +16,7 @@ syntax = "proto3";
 
 package openim.protobuf;
 
-option go_package = "github.com/SupersStone/serverpro/wrapperspb";
+option go_package = "github.com/wanjinliang/new-xxxxx/wrapperspb";
 
 // Wrapper message for `double`.
 //

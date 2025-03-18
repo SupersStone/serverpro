@@ -21,8 +21,8 @@
 package msg
 
 import (
-	conversation "github.com/SupersStone/serverpro/conversation"
-	sdkws "github.com/SupersStone/serverpro/sdkws"
+	conversation "github.com/wanjinliang/new-xxxxx/conversation"
+	sdkws "github.com/wanjinliang/new-xxxxx/sdkws"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"

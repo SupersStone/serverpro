@@ -15,7 +15,7 @@
 syntax = "proto3";
 package openmeeting.user;
 
-option go_package = "github.com/SupersStone/serverpro/openmeeting/user";
+option go_package = "github.com/wanjinliang/new-xxxxx/openmeeting/user";
 
 
 message getDesignateUsersReq{
