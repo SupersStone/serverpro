@@ -18,7 +18,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/wanjinliang/new-xxxxx/util/datautil"
+	"github.com/SupersStone/serverpro/util/datautil"
 )
 
 func (x *GetAllUserIDReq) Check() error {

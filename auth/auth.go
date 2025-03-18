@@ -17,7 +17,7 @@ package auth
 import (
 	"errors"
 
-	"github.com/wanjinliang/new-xxxxx/constant"
+	"github.com/SupersStone/serverpro/constant"
 )
 
 func (x *GetAdminTokenReq) Check() error {

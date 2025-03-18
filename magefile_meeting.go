@@ -52,8 +52,8 @@ func (Meeting) GenGo() error {
 		args := []string{
 			"--go_out=" + meetingGoOutPath,
 			"--go-grpc_out=" + meetingGoOutPath,
-			"--go_opt=module=github.com/wanjinliang/new-xxxxx/openmeeting/" + strings.Join([]string{module}, "/"),
-			"--go-grpc_opt=module=github.com/wanjinliang/new-xxxxx/openmeeting/" + strings.Join([]string{module}, "/"),
+			"--go_opt=module=github.com/SupersStone/serverpro/openmeeting/" + strings.Join([]string{module}, "/"),
+			"--go-grpc_opt=module=github.com/SupersStone/serverpro/openmeeting/" + strings.Join([]string{module}, "/"),
 			filepath.Join(meetingPath, module, module) + ".proto",
 		}
 

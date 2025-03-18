@@ -22,8 +22,8 @@ package group
 
 import (
 	context "context"
-	sdkws "github.com/wanjinliang/new-xxxxx/sdkws"
-	wrapperspb "github.com/wanjinliang/new-xxxxx/wrapperspb"
+	sdkws "github.com/SupersStone/serverpro/sdkws"
+	wrapperspb "github.com/SupersStone/serverpro/wrapperspb"
 	grpc "google.golang.org/grpc"
 	codes "google.golang.org/grpc/codes"
 	status "google.golang.org/grpc/status"

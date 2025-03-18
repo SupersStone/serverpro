@@ -21,8 +21,8 @@
 package relation
 
 import (
-	sdkws "github.com/wanjinliang/new-xxxxx/sdkws"
-	wrapperspb "github.com/wanjinliang/new-xxxxx/wrapperspb"
+	sdkws "github.com/SupersStone/serverpro/sdkws"
+	wrapperspb "github.com/SupersStone/serverpro/wrapperspb"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"

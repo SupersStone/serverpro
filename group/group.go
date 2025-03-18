@@ -18,7 +18,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/wanjinliang/new-xxxxx/constant"
+	"github.com/SupersStone/serverpro/constant"
 )
 
 func (x *CreateGroupReq) Check() error {

@@ -16,7 +16,7 @@ syntax = "proto3";
 
 package openmeeting.admin;
 
-option go_package = "github.com/wanjinliang/new-xxxxx/openmeeting/admin";
+option go_package = "github.com/SupersStone/serverpro/openmeeting/admin";
 
 
 message userLoginReq {

@@ -7,7 +7,7 @@
 package rtc
 
 import (
-	sdkws "github.com/wanjinliang/new-xxxxx/sdkws"
+	sdkws "github.com/SupersStone/serverpro/sdkws"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"
